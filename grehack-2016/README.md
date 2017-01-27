@@ -3,6 +3,8 @@ It includes hardware, so it cannot be remotely now!
 
 # Challenge
 
+![](./chip.jpg)
+
 Find me if you can !
 
 Category: hardware
