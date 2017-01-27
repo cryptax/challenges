@@ -48,3 +48,6 @@ GH16{BLE--rul3Z}
 ```
 
 
+# Links
+
+- [Pictures of the devices](https://twitter.com/CaptainRicard/status/800110002467958785)
