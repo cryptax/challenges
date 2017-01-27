@@ -1,5 +1,5 @@
 This challenge was proposed during GreHack CTF 2016. By @CaptainRicard and me.
-It includes hardware, so it cannot be remotely now!
+It includes hardware, so **it cannot done be remotely now**!
 
 # Challenge
 
